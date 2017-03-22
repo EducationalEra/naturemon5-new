@@ -62,7 +62,7 @@
 </td>
     <td width="50%" style="vertical-align:top !important;">
 <p>Навчальний проект</p>
-<p>&laquo;Наш дім &ndash; Сонячна система&raquo;</p>
+<p><a href="http://prirodaprojects.blogspot.com/2017/03/blog-post_9.html">&laquo;Наш дім &ndash; Сонячна система&raquo;</a></p>
 </td>
   </tr>
     <tr>
