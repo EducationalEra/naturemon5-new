@@ -49,6 +49,7 @@
 </ul>
 </td>
     <td width="50%" style="vertical-align:top !important;">
+<p>Навчальний проект</p>
 <p><a href="http://prirodaprojects.blogspot.com/2017/03/blog-post_5.html">&laquo;Вирощування найвищої бобової рослини&raquo;</a></p>
 </td>
   </tr>
